@@ -1,4 +1,14 @@
-## Hi there 👋
+#안녕하세요. 프론트엔드 개발자를 꿈꾸는 정지연입니다. 👋
+## 현재 공부하는 프로그램🌞
+* PHOTOSHOP
+* ILLUSTRATOR
+* HTML5
+* CSS3
+* JAVASCRIPT
+* JQUERY
+* REACT
+* GIT
+
 
 <!--
 **wpdl724/wpdl724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
