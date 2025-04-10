@@ -8,7 +8,6 @@
 * JQUERY
 * REACT
 * GIT
-  ----
   
 
 
